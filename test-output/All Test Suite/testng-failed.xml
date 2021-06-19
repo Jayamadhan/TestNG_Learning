@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [All Test Suite]" guice-stage="DEVELOPMENT">
+  <test name="C:/Users/Jayamadhan.Sivanraj/OneDrive - Benefithub Inc/Documents/My Drive/Learning/WorkSpace/src(failed)">
+    <classes>
+      <class name="tests.C3_MultipleTcs">
+        <methods>
+          <include name="beforehand1"/>
+        </methods>
+      </class> <!-- tests.C3_MultipleTcs -->
+      <class name="tests.C1_FirstTestNGClass">
+        <methods>
+          <include name="beforecode1"/>
+          <include name="tc1"/>
+          <include name="aftercode1"/>
+        </methods>
+      </class> <!-- tests.C1_FirstTestNGClass -->
+    </classes>
+  </test> <!-- C:/Users/Jayamadhan.Sivanraj/OneDrive - Benefithub Inc/Documents/My Drive/Learning/WorkSpace/src(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->
